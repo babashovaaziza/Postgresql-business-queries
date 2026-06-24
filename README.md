@@ -40,17 +40,6 @@ The objective is to demonstrate SQL skills by solving analytical business questi
 The queries were written for the PostgreSQL DVD Rental sample database.
 Source:
 https://neon.com/postgresql/getting-started/sample-database
-
-## File Structure
-
-```text
-sql-business-analysis/
-│
-├── SQL_SELECT_Aziza_Babashova_HW.sql
-│
-└── README.md
-```
-
 ## Author
 
 Aziza Babashova
