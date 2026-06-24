@@ -38,6 +38,8 @@ The objective is to demonstrate SQL skills by solving analytical business questi
 ## Database
 
 The queries were written for the PostgreSQL DVD Rental sample database.
+Source:
+https://neon.com/postgresql/getting-started/sample-database
 
 ## File Structure
 
